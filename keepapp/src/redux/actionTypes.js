@@ -1,0 +1,1 @@
+export const GET_DENTISTS = "GET_DENTISTS";
